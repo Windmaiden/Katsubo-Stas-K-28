@@ -1,0 +1,5 @@
+﻿  CountryManager.cpp
+s:\task for exam\task\task\countrymanager.cpp(219): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  task.vcxproj -> S:\Task for exam\task\x64\Debug\task.exe
